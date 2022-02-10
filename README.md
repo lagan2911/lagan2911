@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @lagan2911
-- 👀 I’m interested in learning different languages and make projects .
+- 👀 I’m interested in learning different languages and making projects .
 - 🌱 I’m currently learning C++.
 - 💞️ 
 - 📫 
